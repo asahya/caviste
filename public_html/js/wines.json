@@ -1,0 +1,33 @@
+
+
+[{
+		"id": 1,
+		"name": "Bordeau",
+		"grapes": "Pinot noir",
+		"country": "USA",
+		"region": "Oregon",
+		"year": 2017,
+		"notes": "sdsdsd",
+		"picture": "pics/bordeau.jpg"
+	},
+	{
+		"id": 2,
+		"name": "Bordeau",
+		"grapes": "Pinot noir",
+		"country": "USA",
+		"region": "Oregon",
+		"year": 2017,
+		"notes": "sdsdsd",
+		"picture": "pics/bordeau.jpg"
+	},
+	{
+		"id": 3,
+		"name": "Bordeau",
+		"grapes": "Pinot noir",
+		"country": "USA",
+		"region": "Oregon",
+		"year": 2017,
+		"notes": "sdsdsd",
+		"picture": "pics/bordeau.jpg"
+	}
+]
